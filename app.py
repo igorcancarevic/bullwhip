@@ -9,7 +9,7 @@ st.set_page_config(page_title="Bullwhip Effect Simulator | The Value Stack", lay
 st.title("🌊 The Bullwhip Effect Simulator")
 st.markdown("""
 ### From a Whisper to a Scream: Visualizing Information Distortion.
-*Insights by Igor Čančarević*
+*Insights by Igor Cancarevic*
 
 The Bullwhip Effect occurs when small fluctuations in demand at the retail level create progressively larger waves of inventory up the supply chain. This simulator calculates how much **Capital** is trapped because of these information gaps.
 """)
